@@ -14,3 +14,8 @@ Day 2
 2)Using Column Aliases
 3)About Summary Functions/Aggregate functions
   =>Summary/Aggregate Functions With Distinct
+Day 3 
+=>Topics Covered:
+1) Inner Join
+2) Outer Join
+3) Self Join
