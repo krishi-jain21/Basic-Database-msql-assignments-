@@ -37,5 +37,23 @@ Day 4
 
   ->Union
 
+Day 5
+=>Topics Covered:
+
+1)Character or Text functions (LEN, TRIM, UCASE, SUBSTRING, PADDING)
+
+2)Date, Number, Math functions 
+
+3)Formatting output
+
+4)LIMIT, Min, Max function
+
+5)Data Casting
+
+
+
+
+
+
 
 
