@@ -51,6 +51,12 @@ Day 5
 5)Data Casting
 
 
+Day 6 
+=> Topics Covered:
+
+1)About UNION and UNION ALL
+
+2)Difference between UNION and UNION ALL
 
 
 
