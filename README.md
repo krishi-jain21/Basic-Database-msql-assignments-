@@ -59,6 +59,17 @@ Day 6
 2)Difference between UNION and UNION ALL
 
 
+Day 7
+=> Topics Covered:
+
+1)About DML statement
+
+  ->INSERT
+  
+  ->UPDATE
+  
+  ->DELETE
+  
 
 
 
